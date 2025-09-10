@@ -1,2 +1,3 @@
 # M.Sc-Thesis---REVIEW-ON-COPPER-NANOCLUSTERS-AND-COMPUTATIONAL-ANALYSIS
 Thesis work done by me for my Masters. 
+This study explores the interactions of toxic environmental gases (CO, NO, NH₃) with copper nanoclusters (Cu₂–Cu₆) due to their relevance in catalysis and gas sensing. Special attention is given to Cu₄ and Cu₆ clusters, which display notable structural and electronic stability. To enhance performance, bimetallic nanoclusters were designed by alloying copper with silver (Ag) and nickel (Ni). The work examines their structural stability, catalytic activity, adsorption behavior, and electronic properties, highlighting the potential of these pristine and alloyed clusters for applications in gas sensing, storage, and environmental remediation.
